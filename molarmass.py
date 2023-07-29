@@ -126,7 +126,7 @@ elements = {
 }
 
 num_atoms = int(input('No. atoms: '))
-occurences = 0
+occurences = 0    # the amount of a particular atom inside molecule
 masses = []
 
 while (num_atoms > occurences):
